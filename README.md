@@ -1,0 +1,2 @@
+# myCDN
+jsDeliver CDN th!
